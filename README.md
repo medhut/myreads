@@ -1,10 +1,9 @@
 ## MyReads: A Book Tracking App 
 
-​	This Web App built to showcase the power of React Library in creating effecient and smart frontend applications
 
 ## About	
 
-​	
+​	This Web App was built to showcase the power of React Library in creating effecient and smart frontend applications
 
 ## Instructions
 
